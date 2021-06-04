@@ -9,7 +9,6 @@ const CONFIG = {
     btnNo: 'Không, bạn ơi',
     question:'hãy nhập câu hỏi của các bạn vào đây tuy t ko nhận đc đâu haha',
     btnReply: 'Gửi đi',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Tao biết là nó thú vị mà',
     messDesc: 'Hẹn gặp các bạn vào sáng mai',
     btnAccept: 'Bài bái bai <3',
